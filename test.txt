@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2856-82CC
+
+ Directory of C:\Users\Vidhya\Desktop\My Project
+
+07/30/2018  11:39 PM    <DIR>          .
+07/30/2018  11:39 PM    <DIR>          ..
+07/30/2018  11:39 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  38,540,034,048 bytes free
